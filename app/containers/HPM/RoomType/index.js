@@ -1,0 +1,1 @@
+export RoomTypeEditableCellFrm from "./RoomTypeEditableCellFrm";

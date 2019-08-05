@@ -1,0 +1,1 @@
+export HotelEditableCellFrm from "./HotelEditableCellFrm";
