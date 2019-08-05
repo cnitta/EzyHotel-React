@@ -27,3 +27,7 @@ I am not sure why there is an additional semi-colon there in the first place. To
    - Please note that I did not include the multi-level configuration. So if you need it, please refer to the pro      template in original template.
 2. If you change the link in the sidebar menu in step 1, please make sure you update the route in **/app/containers/App/Application.js**  
 3. To link the page to a constant keyword, define them in **/app/containers/pageListAsync.js**   
+
+
+### Main Private Repo:
+https://github.com/bernicecpz/ezyhotel-react-redux
