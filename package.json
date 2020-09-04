@@ -243,7 +243,7 @@
     "lint-staged": "7.3.0",
     "ngrok": "3.0.1",
     "node-plop": "0.16.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "null-loader": "0.1.1",
     "offline-plugin": "5.0.5",
     "optimize-css-assets-webpack-plugin": "^5.0.0",
